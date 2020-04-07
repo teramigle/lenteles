@@ -1,0 +1,64 @@
+table, th, td {
+    box-sizing: border-box;
+    text-align: left;
+    border: 1px solid;
+    border-collapse: collapse;
+    
+
+}
+
+td, th {
+    width: 200px;
+    height: 30px;
+    font-family: Arial;
+    padding: 7px;
+    font-weight: normal;
+
+}
+
+table {
+    margin: 20px;
+}
+
+th {
+    background-color: #F1F1F1;
+}
+
+.tomato {
+    background-color: tomato;
+    
+}
+.orange {
+    background-color: orange;
+    
+}
+.dodgerblue {
+    background-color: dodgerblue;
+}
+
+.mediumseagreen {
+    background-color: mediumseagreen;
+}
+
+.gray {
+    background-color: gray;
+}
+
+.slateblue {
+    background-color: slateblue;
+}
+
+.violet {
+    background-color: violet;
+}
+
+.lightgray {
+    background-color: lightgray;
+}
+
+.antra th {
+    font-weight: bold;
+}
+.antra th, td {
+    width: 150px;
+}
